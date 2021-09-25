@@ -1,0 +1,1 @@
+printf("[%d] soma = %d\n", i, soma);
